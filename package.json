@@ -1,0 +1,27 @@
+{
+  "name": "js-pbcmd",
+  "version": "1.0.53",
+  "description": "",
+  "keywords": [
+    "time",
+    "date",
+    "datetime",
+    "cookie",
+    "localStorage",
+    "debounce",
+    "throttle",
+    "string",
+    "number",
+    "match",
+    "jsonp",
+    "data"
+  ],
+  "repository": "jsToolBigBox/js-tool-big-box",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mengyixuan",
+  "license": "MIT"
+}
